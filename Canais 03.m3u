@@ -18,6 +18,9 @@ http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8?IMDSFULL
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="Geral",AWTV
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="Geral",BAND HD
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1723365796.m3u8
+
 #EXTINF:-1 tvg-logo=”https://www.tvdigitalbirigui.com/storage/76/config/GZJTjTT89EMMdCQ8Syvo2I4EFxBHamJt9X4z09GO.jpg” group-title="Geral",TV Birigui 
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8?IMDSFULL
 
@@ -75,6 +78,9 @@ https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Geral",CLASSIQUE TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Classique TV" tvg-logo="https://i.imgur.com/Mcc2grC.jpg" group-title="Geral",CLASSIQUE TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w2015601503.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/mvuZGvt.png" group-title="Geral",CLASSIQUE TV WESTERN
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
 
@@ -96,6 +102,9 @@ https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3
 #EXTINF:-1 tvg-logo=”https://fpa.com.br/_img/home/logo_tvcultura.png” group-title="Geral",TV Cultura
 https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8?IMDSFULL
 
+#EXTINF:-1 tvg-id="Curta" tvg-logo="https://i1.wp.com/telaviva.com.br/wp-content/uploads/2016/06/canalcurta_0-E.jpg?fit=720%2C540&ssl=1" group-title="Geral",CURTA!
+https://live.charlotteproducoes.com/hls/curta.m3u8
+
 #EXTINF:-1 tvg-logo=”https://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png” group-title="Geral",Discovery Turbo
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?IMDSFULL
 
@@ -104,6 +113,13 @@ http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?IMDSFULL?fluxustv.m
 
 #EXTINF: -1 tvg-logo="https://imgur.com/XE1KtQw.png" group-title="Geral", ELEMENTAL CHANNEL
 https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
+
+#EXTINF:0 channel-id="pluto-tv-filmes-acao" tvg-logo="https://imgur.com/8Vr6580.png" group-title="Geral",Filmes de Ação 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
+
+#EXTINF:-1  tvg-id="Futura" tvg-logo="https://i.imgur.com/A7vygB7.png" group-title="Canais | Abertos",FUTURA (FDR)
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w419558084.m3u8
 
 #EXTINF:-1 tvg-logo=”https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png” group-title="Geral",TV Galega
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?IMDSFULL
@@ -122,6 +138,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasarte
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Geral",ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+
+#EXTINF:0 channel-id="pluto-tv-investigacao-ptv1" tvg-logo="https://imgur.com/JfLHsbj.png" group-title="Geral",TV INVESTIGAÇÃO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781ef20-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c6910880-42dc-4cb1-99bb-7227886a27ba&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo=”https://tvjornal.ne10.uol.com.br/dist/assets/images/logo/logo-tvjornal.svg” group-title="Geral",TV Jornal/SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8?IMDSFULL
@@ -159,6 +178,9 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 tvg-logo=”https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg” group-title="Geral",Nasa
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8?IMDSFULL
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" tvg-shift="0" group-title="Geral",TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=”https://tvonix.com.br/wp-content/uploads/2020/09/logo-tv-onix.png” group-title="Geral",TV Onix
 https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/chunklist_w1434678954.m3u8?IMDSFULL
 
@@ -185,6 +207,16 @@ https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?IMDS
 
 #EXTINF:-1 https://pa-str.srvsite.com/arquivos/4172/cabecalho-4172-20190419152834.png group-title="Geral",Rede TV Sul
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8?IMDSFULL
+
+#EXTINF:0 channel-id="pluto-tv-retro-2" tvg-logo="https://imgur.com/Bxf8Gwu.png" group-title="Geral",TV RETRÔ FILMES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="75709" tvg-name="Retro Plus TV" tvg-logo="https://imgur.com/BDC3ggR.png" group-title="Geral",RETRO PLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BDC3ggR.png" group-title="Geral",RETRO PLUS TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/G5T3Lph.png" group-title="Geral", SAT TV 
 https://stmv3.samcast.com.br/eliasdossantos1146/eliasdossantos1146/chunklist_w1034085125.m3u8
@@ -216,6 +248,9 @@ https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 #EXTINF:-1 tvg-logo=”https://tvterraviva.band.uol.com.br/images/terravivaHD_05.png” group-title="Geral",TV Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?IMDSFULL
 
+#EXTINF:-1 group-title="Geral",Tastemade 
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Geral",Touro 144
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?IMDSFULL
 
@@ -242,6 +277,9 @@ https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://imgur.com/SUTvLz6.png" group-title="Geral", VIRTUAL TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-FoQPA_jviBY/YTERLTmXKPI/AAAAAAAAFVw/iZ1wvyUrHbUOGKTRdlFFXWeO5lggKpdkQCLcBGAsYHQ/s200/WEB%2BTV%2BCINE.webp" group-title="Geral",WEB TV CINE
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="Geral", XTreme
 https://stmv5.samcast.com.br/everton7487/everton7487/playlist.m3u8
@@ -366,12 +404,23 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 ######################################Jornalismo################################
 
 
+#EXTINF:-1 tvg-id="Band News" tvg-logo="https://i.imgur.com/Ti6V5ku.png" group-title="Jornalismo",BAND NEWS 
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo=”https://logodownload.org/wp-content/uploads/2021/05/cbs-news-logo.png” group-title="Jornalismo",CBS News
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-id="JovemPanNews" tvg-logo="https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png" group-title="Jornalismo",JOVEM PAN NEWS 
+http://168.205.87.198:8555/live/1499/123456/161.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png" group-title="Jornalismo",JOVEM PAN NEWS 
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
+#EXTINF:-1 tvg-id="Record News" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Jornalismo",RECORD NEWS
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 
 
