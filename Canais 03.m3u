@@ -118,7 +118,7 @@ https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
 
-#EXTINF:-1  tvg-id="Futura" tvg-logo="https://i.imgur.com/A7vygB7.png" group-title="Canais | Abertos",FUTURA (FDR)
+#EXTINF:-1  tvg-id="Futura" tvg-logo="https://i.imgur.com/A7vygB7.png" group-title="Geral",FUTURA FDR
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w419558084.m3u8
 
 #EXTINF:-1 tvg-logo=”https://ps-str.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png” group-title="Geral",TV Galega
